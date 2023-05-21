@@ -9,7 +9,7 @@ const MoviesCard = (movie: MoviesDataProps) => {
       <CardBody>
         <Image src={movie.Poster} alt={movie.Title} borderRadius="lg" />
         <Stack mt="6" spacing="3">
-          <Heading size="md">Living room Sofa</Heading>
+          <Heading size="md">{movie.Title} </Heading>
           <Text>Type : {movie.Type}</Text>
           <Text color="blue.600" fontSize="2xl">
             Release Year : {movie.Year}
