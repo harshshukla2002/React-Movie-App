@@ -10,7 +10,7 @@
 
 # Search Page
 
-<img src="https://i.postimg.cc/0NCgcBRf/Screenshot-2023-04-11-183835.png" />
+<img src="https://i.postimg.cc/G2Rz80P6/Screenshot-2023-05-21-125648.png" />
 
 # Not Found Page
 
